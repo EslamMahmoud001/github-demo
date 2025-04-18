@@ -1,4 +1,7 @@
 # github-demo
 Demo repo for git tutorial
 
-this is a new line
+This is a new line
+
+# About the project
+**Some description**
